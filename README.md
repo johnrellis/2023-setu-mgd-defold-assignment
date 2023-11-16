@@ -55,7 +55,12 @@ The game should be sprite based, have more than one sprite, and should have a ti
 * It should be written in markdown format and should be in a file called `docs/design.md`
 * Should not be written in the first or second person, and they should not contain vague terms (e.g. “a head shot will result in ‘significant’ damage”).  Aspirational writing should not be used (e.g. hopefully the drawbridge animation will point the player in the right direction). Write in a technical style, in other words be concise, precise, direct, and well organised.
 * Grading will be based on the level of detail, the quality of the writing, and the overall presentation of the document from Starter to Excellent. 
-   
+
+Resources:
+
+* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 
 #### ** Defold Components **
 
