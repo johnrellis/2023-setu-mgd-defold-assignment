@@ -12,11 +12,11 @@ The game should target the mobile ecosystem and should contain the following fac
 
 
 | Grade     | Game Design Doc   | Game Config/Setup                                                    | Defold Components                       | Game Progression                                                             | Physics                                                        |
-|-----------|-------------------|----------------------------------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------|
-| Starter   | Starter Detail*   | Splash Screen and simple game start                                  | Basic Use of Defold Components**        | Single Level - Completion via Time or Score                                 | One Type of Collision Object                                   |
-| Basic     | Basic Detail*     | Game Welcome with Interactive Start                                  | Intermediate Use of Defold Components** | Progression Through 2 levels either via time or score***                    | Collision Groups                                               |
-| Good      | Good Detail*      | Game High Scores, Save and Load                                      | Good Use of Defold Components**         | Progression Through 3 levels either via time or score***                    | Collision Groups and multiple types of collision objects       |
-| Excellent | Excellent Detail* | Additional Config and Setup (e.g. Difficulty levels, Visual Changes) | Excellent Use of Defold Components**    | Good Progression with Character Progression  e.g. Experience Points (XP)*** | Advanced usages of collision objects, groups, joints, raycasts |
+| --------- | ----------------- | -------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Starter   | Starter Detail*   | Splash Screen and simple game start                                  | Basic Use of Defold Components**        | Single Level - Completion via Time or Score                                  | One Type of Collision Object                                   |
+| Basic     | Basic Detail*     | Game Welcome with Interactive Start                                  | Intermediate Use of Defold Components** | Progression Through 2 levels either via time or score                        | Collision Groups                                               |
+| Good      | Good Detail*      | Game High Scores, Save and Load                                      | Good Use of Defold Components**         | Progression Through 3 levels either via time or score                        | Collision Groups and multiple types of collision objects       |
+| Excellent | Excellent Detail* | Additional Config and Setup (e.g. Difficulty levels, Visual Changes) | Excellent Use of Defold Components**    | All above with Character Progression  e.g. Experience Points (XP) or rewards | Advanced usages of collision objects, groups, joints, raycasts |
 
 Feel free to highlight where you feel you have excelled in the addition comments in the submission section below.  This assignment will be 60% of your final grade.
 
@@ -137,11 +137,11 @@ Each entry should be kept succinct.  Point to documentation where required. A ta
 If you fail to point out where you should get marks, it may affect your grade.
 
 | Grade     | Game Design Doc | Game Config/Setup | Defold Components | Game Progression | Physics |
-|-----------|-----------------|-------------------|-------------------|-----------------|---------|
-| Starter   |                 |                   |                   |                 |         |
-| Basic     |                 |                   |                   |                 |         |
-| Good      |                 |                   |                   |                 |         |
-| Excellent |                 |                   |                   |                 |         |
+| --------- | --------------- | ----------------- | ----------------- | ---------------- | ------- |
+| Starter   |                 |                   |                   |                  |         |
+| Basic     |                 |                   |                   |                  |         |
+| Good      |                 |                   |                   |                  |         |
+| Excellent |                 |                   |                   |                  |         |
 
 ### Additional Comments and Highlights
 
