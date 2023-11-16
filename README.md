@@ -1,5 +1,9 @@
 # setu-mobile-game-dev-1-2023-assignment-2
 
+## Deadline
+
+Deadline is December 27th, 23:59.
+
 ## The Assignment
 
 Create a multi-level Defold game with taking the following grading rubric into consideration.
@@ -96,7 +100,6 @@ Each column of the grading rubric is worth 20% of this assignment.
 3. A video showcasing features and modding must be provided,  Area provided below to provide link.
 3. Everything must be contained in this repository
 4. A Moodle submission link will be provided to upload a zip of the repository before the deadline
-5. Deadline is December the 18th of December 2023, 11am.
 6. Non response to issues with submission or non response to questions will result in 10% lost for each incident
 7. You may be asked to attend an interview to verify your work, the likelihood of this increases if:
     1. You are not attending lab/lectures
