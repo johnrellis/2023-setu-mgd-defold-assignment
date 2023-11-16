@@ -96,7 +96,7 @@ Each column of the grading rubric is worth 20% of this assignment.
 
 1. You must use the github classroom repository and commits should be spread over time
 2. The grading rubric at the end of this README must be filled in to highlight the areas you believe you deserve marks
-  * https://www.tablesgenerator.com/markdown_tables may help
+  1. https://www.tablesgenerator.com/markdown_tables may help
 3. A video showcasing features and modding must be provided,  Area provided below to provide link.
 3. Everything must be contained in this repository
 4. A Moodle submission link will be provided to upload a zip of the repository before the deadline
