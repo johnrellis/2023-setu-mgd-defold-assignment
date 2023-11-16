@@ -70,11 +70,14 @@ Resources:
 
 * The use of Defold components will be graded as per the variety and level of use from Starter to Excellent
 * The following defold components MUST be used (Note that physics objects are graded separately and not included in this list)
+  * GUI Components
   * Game Objects
   * Game Object Factories
   * Sprites
   * Animations
   * Tilemaps and Tile Sources
+
+Feel free to include any other components such particle effects, sound, third party animation etc, you should highlight the usage of these in addition comments below.
 
 #### Code Quality
 
